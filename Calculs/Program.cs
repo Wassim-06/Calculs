@@ -76,14 +76,14 @@ namespace Calculs
                         solution = val1 * val2;
                         if (reponse == solution)
                         {
-                            Console.WriteLine("Bravo !");
+                            Console.WriteLine("HEYYYY !");
                         }
                         else
                         {
                             Console.WriteLine("Faux : " + val1 + " x " + val2 + " = " + solution);
                         }
                     }
-                }
+                }   
             }
         }
     }
